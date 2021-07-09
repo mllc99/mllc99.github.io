@@ -1,0 +1,62 @@
+
+body{
+  background-image: url("../imagenes/comic-11.PNG");
+  font-family: 'Krona One', sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+.frase{
+  color: #34a0a4;
+  }
+div{
+  width: 450px;
+  height: 300px;
+  border-style: solid;
+  border-color: grey;
+  margin-bottom: 50px;
+  float: left;
+}
+
+.cuadro1{
+  position: static;
+  margin-left: 300px;
+  margin-right: 40px;
+}
+.cuadro2{
+  position: static;
+  margin-right: 40px;
+}
+.cuadro3{
+  position: static;
+  margin-left: 300px;
+  float: left;
+}
+.cuadro4{
+  position: static;
+  margin-left: 40px;
+}
+.cuadro5{
+  position: static;
+  margin-left: 300px;
+  float: left;
+}
+.cuadro6{
+  position: static;
+  margin-left: 40px;
+}
+.cuadro7{
+  position: static;
+  margin-left: 300px;
+  float: left;
+}
+.cuadro8{
+  position: static;
+  margin-left: 40px;
+}
+
+.partearriba{
+  background-color: #e8e8e4;
+  border-style: none;
+  position: fixed;
+  width: 1600px;
+  height: 130px
+}
