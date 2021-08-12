@@ -1,0 +1,65 @@
+body {
+  background: lightblue
+}
+
+.texto {
+  position: static;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.lamina1{
+  position: static;
+  margin-left: 200px;
+  float: left;
+}
+.lamina2{
+  position: static;
+  margin-right: 200px;
+  float: right;
+}
+.lamina3{
+  position: static;
+  margin-left: 200px;
+  float: left;
+}
+.lamina4{
+  position: static;
+  margin-right: 200px;
+  float: right;
+}
+.lamina5{
+  position: static;
+  margin-left: 200px;
+  float: left;
+}
+.lamina6{
+  position: static;
+  margin-right: 200px;
+  float: right;
+}
+.lamina7{
+  position: static;
+  margin-left: 200px;
+  float: left;
+}
+.lamina8{
+  position: static;
+  margin-right: 200px;
+  float: right;
+}
+.maqueta {
+  position: static;
+  margin-left: 300px;
+  float: left;
+}
+.lamina9 {
+  position: static;
+  margin-right: 200px;
+  float: right;
+}
+.doscortes {
+  position: static;
+  margin-left: auto;
+  margin-right: auto;
+}
